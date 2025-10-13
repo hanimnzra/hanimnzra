@@ -1,4 +1,4 @@
-# 🌸 Hi there, I’m Nurhanim Nazira! 👋
+# 🌸 Hey there! I’m Nurhanim Nazira! ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 **Computer Science Student | Graph Theory & Data Analysis Enthusiast**
 
@@ -20,10 +20,10 @@ I love turning complex problems into clear insights and enjoy working on project
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🎨 **Graph Coloring Algorithm (FYP)** | Final Year Project implementing decomposition-based coloring for (triangle, theta)-free graphs and analyzing scalability. | Python, Graph Theory |
-| 📊 **Customer Segmentation & Behavior Analysis (Internship)** | Internship project at Be U by Bank Islam analyzing user behaviors, segmentation, and financial network patterns. | Python, Pandas, Seaborn |
-| 🧩 **Titanic Dataset Analysis** | Data science project predicting survival outcomes using classic ML techniques. | Python, Scikit-learn |
-| 💻 **Other Mini Projects** | Various exercises in data visualization, ML, and problem-solving. | Python, Java, JavaScript |
+| 🎨 **Graph Coloring Algorithm (FYP)** | Final Year Project implementing decomposition-based coloring for (triangle, theta)-free graphs and analyzing scalability. | Python, Numpy, Scikit-learn, NetworkX, Graph Theory |
+| 📊 **Customer Segmentation & Behavior Analysis (Internship)** | Internship project at Be U by Bank Islam analyzing user behaviors, segmentation, and financial network patterns. | Python, Pandas, Seaborn, Tableau, Power BI |
+| 🧩 **Titanic Dataset Analysis** | Data science project exploring dataset in various ways. | Python, Tableau, Matplotlib, Pandas |
+| 💻 **Other Mini Projects** | Various exercises in data visualization, web services, and problem-solving. | Python, Java, JavaScript |
 
 *(Click on project names to visit the repositories.)*
 

@@ -1,12 +1,9 @@
-# 🌸 Hey there! I’m Nurhanim Nazira! ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-**Computer Science Student | Graph Theory & Data Analysis Enthusiast**
-
+# 🌸 Hey there! I’m Nurhanim Nazira! 🌟
 ---
 
 ## 🎓 About Me
-I’m a **final-year MEng, BSc Computer Science student at the University of Leeds**. 
-I love turning complex problems into clear insights and enjoy working on projects that make an impact in the real world.  
+🎀 I’m a **final-year MEng, BSc Computer Science** student at the University of Leeds. 
+🧬 I love turning complex problems into clear insights and enjoy working on projects that make an impact in the real world.  
 
 ---
 
@@ -25,7 +22,6 @@ I love turning complex problems into clear insights and enjoy working on project
 | 🧩 **Titanic Dataset Analysis** | Data science project exploring dataset in various ways. | Python, Tableau, Matplotlib, Pandas |
 | 💻 **Other Mini Projects** | Various exercises in data visualization, web services, and problem-solving. | Python, Java, JavaScript |
 
-*(Click on project names to visit the repositories.)*
 
 ---
 

@@ -5,7 +5,7 @@
 ---
 
 ## 🎓 About Me
-I’m a **final-year Computer Science student at the University of Leeds**. 
+I’m a **final-year MEng, BSc Computer Science student at the University of Leeds**. 
 I love turning complex problems into clear insights and enjoy working on projects that make an impact in the real world.  
 
 ---

@@ -56,7 +56,7 @@
 
 ---
 
-### 📄 Internship Project Summary (Confidential)
+### 📄 Internship Project Summary
 
 **Project:** Customer Segmentation & Behavior Analysis – Be U by Bank Islam
 

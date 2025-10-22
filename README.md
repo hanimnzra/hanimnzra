@@ -18,7 +18,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------|
 | 🎨 [**Graph Coloring Algorithm (FYP)**](https://github.com/hanimnzra/final-year-project) | Final Year Project implementing decomposition-based coloring for (triangle, theta)-free graphs and analyzing scalability. | Python, NumPy, scikit-learn, NetworkX, Graph Theory |
-| 📊 [**Customer Segmentation & Behavior Analysis (Internship)**](#internship-project-summary) | Internship project analyzing customer behavior, segmenting user groups, and extracting insights using data analysis and LLM-based pattern detection. *(Summary below; project confidential)* | Python, Pandas, Seaborn, scikit-learn, Tableau, Power BI, LLaMA |
+| 📊 [**Customer Segmentation & Behavior Analysis (Internship)**](#-internship-project-summary) | Internship project analyzing customer behavior, segmenting user groups, and extracting insights using data analysis and LLM-based pattern detection. *(Summary below; project confidential)* | Python, Pandas, Seaborn, scikit-learn, Tableau, Power BI, LLaMA |
 | 🧩 [**Titanic Dataset Analysis**](https://github.com/hanimnzra/data-science) | Data science project exploring dataset in various ways. | Python, Tableau, Matplotlib, Pandas |
 
 ---

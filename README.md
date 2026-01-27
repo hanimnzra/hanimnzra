@@ -17,6 +17,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------|
+| 📘 [**IBM Data Science Learning Path**](https://github.com/hanimnzra/ibm_data_science_learning_path) | Collection of hands-on projects completed under IBM Cognitive Class AI – Data Science Career Preparation Learning Path. Includes Python programming, data handling, and core data science concepts. *(Certificates verifiable in repo)* | Python, Pandas, NumPy, SQL, Databases |
 | 🎨 [**Graph Coloring Algorithm (FYP)**](https://github.com/hanimnzra/final-year-project) | Final Year Project implementing decomposition-based coloring for (triangle, theta)-free graphs and analyzing scalability. | Python, NumPy, scikit-learn, NetworkX, Graph Theory |
 | 📊 [**Customer Segmentation & Behavior Analysis (Internship)**](#-internship-project-summary) | Internship project analyzing customer behavior, segmenting user groups, and extracting insights using data analysis and LLM-based pattern detection. *(Summary below; project confidential)* | Python, Pandas, Seaborn, scikit-learn, Tableau, Power BI, LLaMA |
 | 🧩 [**Titanic Dataset Analysis**](https://github.com/hanimnzra/data-science) | Data science project exploring dataset in various ways. | Python, Tableau, Matplotlib, Pandas |

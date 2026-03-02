@@ -8,8 +8,8 @@
 ---
 
 ## 💡 Current Focus
-- 🚀 Exploring **AI, data science & cybersecurity**  
-- 📊 Enhancing skills in **data mining, data science, and visualization**   
+- 🚀 Exploring **AI & data science**  
+- 📊 Enhancing skills in **data mining, data science, and cloud computing**   
 
 ---
 
